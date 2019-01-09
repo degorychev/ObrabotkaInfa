@@ -1,0 +1,3 @@
+D:\Student\aistbd41\ObrabotkaInfa\Lab5\bin\Debug\HaffmanProject.exe.config
+D:\Student\aistbd41\ObrabotkaInfa\Lab5\obj\Debug\HaffmanProject.exe
+D:\Student\aistbd41\ObrabotkaInfa\Lab5\obj\Debug\HaffmanProject.pdb

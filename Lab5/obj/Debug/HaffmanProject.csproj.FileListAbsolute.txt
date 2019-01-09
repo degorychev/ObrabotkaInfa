@@ -1,0 +1,12 @@
+c:\users\maxim\documents\visual studio 2015\Projects\HaffmanProject\HaffmanProject\bin\Debug\HaffmanProject.exe.config
+c:\users\maxim\documents\visual studio 2015\Projects\HaffmanProject\HaffmanProject\bin\Debug\HaffmanProject.exe
+c:\users\maxim\documents\visual studio 2015\Projects\HaffmanProject\HaffmanProject\bin\Debug\HaffmanProject.pdb
+c:\users\maxim\documents\visual studio 2015\Projects\HaffmanProject\HaffmanProject\obj\Debug\HaffmanProject.csprojResolveAssemblyReference.cache
+c:\users\maxim\documents\visual studio 2015\Projects\HaffmanProject\HaffmanProject\obj\Debug\HaffmanProject.exe
+c:\users\maxim\documents\visual studio 2015\Projects\HaffmanProject\HaffmanProject\obj\Debug\HaffmanProject.pdb
+C:\Users\student\Downloads\HaffmanProject\HaffmanProject\HaffmanProject\bin\Debug\HaffmanProject.exe.config
+C:\Users\student\Downloads\HaffmanProject\HaffmanProject\HaffmanProject\obj\Debug\HaffmanProject.exe
+C:\Users\student\Downloads\HaffmanProject\HaffmanProject\HaffmanProject\obj\Debug\HaffmanProject.pdb
+C:\Users\student\Downloads\HaffmanProject\HaffmanProject\HaffmanProject\bin\Debug\HaffmanProject.exe
+C:\Users\student\Downloads\HaffmanProject\HaffmanProject\HaffmanProject\bin\Debug\HaffmanProject.pdb
+C:\Users\student\Downloads\HaffmanProject\HaffmanProject\HaffmanProject\obj\Debug\HaffmanProject.csprojResolveAssemblyReference.cache

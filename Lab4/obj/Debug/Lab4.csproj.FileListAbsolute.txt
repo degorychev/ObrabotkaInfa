@@ -1,0 +1,3 @@
+D:\Student\aistbd41\ObrabotkaInfa\Lab4\bin\Debug\WindowsFormsApplication2.exe.config
+D:\Student\aistbd41\ObrabotkaInfa\Lab4\obj\Debug\WindowsFormsApplication2.exe
+D:\Student\aistbd41\ObrabotkaInfa\Lab4\obj\Debug\WindowsFormsApplication2.pdb
